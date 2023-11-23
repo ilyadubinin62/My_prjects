@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstarPathfindingProject", "AstarPathfindingProject.csproj", "{F878913A-764A-DC68-9149-6A556293E7DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshPlus", "NavMeshPlus.csproj", "{774EBF1D-EF10-35C4-FE90-9BF31CD3632D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{2E065D60-8857-1B05-6FDC-074456216778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AimingRig", "AimingRig.csproj", "{27D021A2-5AE2-7654-5595-173A57224F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AstarPathfindingProjectEditor", "AstarPathfindingProjectEditor.csproj", "{EE10D222-B12C-0804-0542-C61C3410A26F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageToolsEditor", "PackageToolsEditor.csproj", "{6901E85E-014A-9D11-4849-E6476EC699A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshPlusEditor", "NavMeshPlusEditor.csproj", "{34C4CDE0-554C-87FD-4172-196261AF20D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F878913A-764A-DC68-9149-6A556293E7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F878913A-764A-DC68-9149-6A556293E7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F878913A-764A-DC68-9149-6A556293E7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F878913A-764A-DC68-9149-6A556293E7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774EBF1D-EF10-35C4-FE90-9BF31CD3632D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774EBF1D-EF10-35C4-FE90-9BF31CD3632D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774EBF1D-EF10-35C4-FE90-9BF31CD3632D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774EBF1D-EF10-35C4-FE90-9BF31CD3632D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E065D60-8857-1B05-6FDC-074456216778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E065D60-8857-1B05-6FDC-074456216778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E065D60-8857-1B05-6FDC-074456216778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E065D60-8857-1B05-6FDC-074456216778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D021A2-5AE2-7654-5595-173A57224F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D021A2-5AE2-7654-5595-173A57224F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D021A2-5AE2-7654-5595-173A57224F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D021A2-5AE2-7654-5595-173A57224F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE10D222-B12C-0804-0542-C61C3410A26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE10D222-B12C-0804-0542-C61C3410A26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE10D222-B12C-0804-0542-C61C3410A26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE10D222-B12C-0804-0542-C61C3410A26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6901E85E-014A-9D11-4849-E6476EC699A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6901E85E-014A-9D11-4849-E6476EC699A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6901E85E-014A-9D11-4849-E6476EC699A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6901E85E-014A-9D11-4849-E6476EC699A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C4CDE0-554C-87FD-4172-196261AF20D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C4CDE0-554C-87FD-4172-196261AF20D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C4CDE0-554C-87FD-4172-196261AF20D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C4CDE0-554C-87FD-4172-196261AF20D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
